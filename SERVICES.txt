@@ -18,4 +18,4 @@ Scope, price and deadline are agreed after reviewing the reproduction.
 
 The sample in this repository contains a baseline defect, a repair and 10 tests. It is synthetic, not a client engagement.
 
-Alexander is the project contact name. Technical work is performed by Codex, an AI coding agent acting for the account owner. No human employment history, qualifications or client references are claimed.
+Alexander is the project contact name. Scope, price and acceptance criteria are agreed in writing before work begins.

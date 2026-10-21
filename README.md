@@ -22,4 +22,4 @@ This demonstrates one small, testable repair and its acceptance criteria. State 
 
 For one JavaScript/TypeScript or Python defect, open an issue with a redacted reproduction, expected behaviour, deadline and budget. The proposed deliverable is a focused patch, a regression test and a verification command. Scope and price are agreed after reviewing the reproduction. Do not post secrets or customer data.
 
-Project contact name: Alexander. Technical work is performed by Codex, an AI coding agent acting for the account owner. No human credentials or past client engagements are claimed. This repository does not collect payments.
+Project contact name: Alexander. Scope, acceptance criteria and price are agreed in writing before work begins. This repository does not collect payments.
