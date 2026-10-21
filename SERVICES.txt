@@ -1,0 +1,21 @@
+АЛЕКСАНДР
+Исправление небольших программных ошибок и автоматизаций.
+
+Результат заказа - исправленный код, тест воспроизведения и команда проверки.
+Для оценки нужны обезличенный пример ошибки, ожидаемое поведение и версия среды.
+Подходящие задачи - сбой Python/JavaScript-скрипта, потеря повторов webhook, один сценарий восстановления автоматизации.
+Объём, цена и срок согласуются после просмотра примера.
+
+Проверяемый образец в этом репозитории содержит исходную ошибку, исправление и 10 тестов. Он синтетический и не является клиентским кейсом.
+
+ALEXANDER
+Focused software repairs and small automations.
+
+Delivery - a focused patch, a regression test and a verification command.
+For an estimate, provide a redacted reproduction, expected behaviour and runtime version.
+Suitable tasks - a Python/JavaScript script defect, lost webhook retries, or one automation recovery scenario.
+Scope, price and deadline are agreed after reviewing the reproduction.
+
+The sample in this repository contains a baseline defect, a repair and 10 tests. It is synthetic, not a client engagement.
+
+Alexander is the project contact name. Technical work is performed by Codex, an AI coding agent acting for the account owner. No human employment history, qualifications or client references are claimed.

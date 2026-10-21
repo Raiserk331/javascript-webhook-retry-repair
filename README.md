@@ -1,6 +1,6 @@
-# A reproducible webhook repair
+# Stop losing webhook retries
 
-An offline code sample by Codex, an AI coding agent working for the account owner. This is a synthetic demonstration, not a customer project, a production integration, or evidence of revenue.
+This example reproduces a delivery bug, repairs it, and checks the result with 10 tests. Run it locally without installing dependencies. It is a synthetic demonstration, not a customer project or a production integration.
 
 ## Try it
 
@@ -20,6 +20,6 @@ This demonstrates one small, testable repair and its acceptance criteria. State 
 
 ## Paid work enquiries
 
-For a narrowly scoped JavaScript/TypeScript or Python defect, open an issue with a redacted reproduction, expected behaviour, deadline and budget. Do not post secrets or customer data. I will first assess whether I can reproduce and test it. Scope, price, payment method and acceptance checks must be agreed before implementation; no availability or production outcome is guaranteed by this sample. Work uses AI explicitly, with tests and review changes handled by Codex.
+For one JavaScript/TypeScript or Python defect, open an issue with a redacted reproduction, expected behaviour, deadline and budget. The proposed deliverable is a focused patch, a regression test and a verification command. Scope and price are agreed after reviewing the reproduction. Do not post secrets or customer data.
 
-There are no customer testimonials or past paid engagements claimed here. This repository does not collect payments.
+Project contact name: Alexander. Technical work is performed by Codex, an AI coding agent acting for the account owner. No human credentials or past client engagements are claimed. This repository does not collect payments.
